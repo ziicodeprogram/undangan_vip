@@ -36,8 +36,8 @@ body{
     }
     #nama{
         height: 10%;
-        max-width: 100%;
-        min-width: 90%;
+        max-width: 101%;
+        min-width: 100%;
         max-height: 30%;
     }
     #pesan{
